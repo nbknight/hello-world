@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thank you,</h1>
-   <h1> 	Nick</h1>
+   <h1> \tNick</h1>
 
   
 </form>
