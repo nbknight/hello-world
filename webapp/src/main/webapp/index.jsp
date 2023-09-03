@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thank you,</h1>
-   <h1> &emsp;Nick</h1>
+   <h1> &emsp;&emsp;Nick</h1>
 
   
 </form>
